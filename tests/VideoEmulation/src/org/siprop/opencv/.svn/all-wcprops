@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/tests/VideoEmulation/src/org/siprop/opencv
+END
+SocketCamera.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/tests/VideoEmulation/src/org/siprop/opencv/SocketCamera.java
+END
+VideoEmulation.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/tests/VideoEmulation/src/org/siprop/opencv/VideoEmulation.java
+END
+OpenCV.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/tests/VideoEmulation/src/org/siprop/opencv/OpenCV.java
+END
+VideoEmulationConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/tests/VideoEmulation/src/org/siprop/opencv/VideoEmulationConfiguration.java
+END

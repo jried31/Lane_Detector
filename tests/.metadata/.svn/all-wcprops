@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/16/trunk/tests/.metadata
+END
+.log
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/16/trunk/tests/.metadata/.log
+END
+version.ini
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/15/trunk/tests/.metadata/version.ini
+END
+.lock
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/15/trunk/tests/.metadata/.lock
+END

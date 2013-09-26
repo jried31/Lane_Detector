@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/otherlibs/highgui
+END
+loadsave.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/otherlibs/highgui/loadsave.cpp
+END
+grfmt_pxm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/otherlibs/highgui/grfmt_pxm.cpp
+END
+cvcap_socket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/otherlibs/highgui/cvcap_socket.cpp
+END
+utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/otherlibs/highgui/utils.h
+END
+grfmts.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/otherlibs/highgui/grfmts.h
+END
+grfmt_base.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/otherlibs/highgui/grfmt_base.cpp
+END
+grfmt_bmp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/otherlibs/highgui/grfmt_bmp.cpp
+END
+grfmt_imageio.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/otherlibs/highgui/grfmt_imageio.h
+END
+grfmt_sunras.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/otherlibs/highgui/grfmt_sunras.h
+END
+grfmt_jpeg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/otherlibs/highgui/grfmt_jpeg.cpp
+END
+grfmt_jpeg2000.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/otherlibs/highgui/grfmt_jpeg2000.cpp
+END
+grfmt_png.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/otherlibs/highgui/grfmt_png.h
+END
+bitstrm.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/otherlibs/highgui/bitstrm.h
+END
+dummy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/otherlibs/highgui/dummy.cpp
+END
+cvcap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/otherlibs/highgui/cvcap.cpp
+END
+grfmt_tiff.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/otherlibs/highgui/grfmt_tiff.h
+END
+utils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/otherlibs/highgui/utils.cpp
+END
+grfmt_exr.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/otherlibs/highgui/grfmt_exr.h
+END
+precomp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/otherlibs/highgui/precomp.cpp
+END
+grfmt_pxm.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/otherlibs/highgui/grfmt_pxm.h
+END
+grfmt_imageio.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/otherlibs/highgui/grfmt_imageio.cpp
+END
+grfmt_sunras.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/otherlibs/highgui/grfmt_sunras.cpp
+END
+grfmt_base.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/otherlibs/highgui/grfmt_base.h
+END
+image.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/otherlibs/highgui/image.cpp
+END
+grfmt_bmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/otherlibs/highgui/grfmt_bmp.h
+END
+grfmt_png.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/otherlibs/highgui/grfmt_png.cpp
+END
+bitstrm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/otherlibs/highgui/bitstrm.cpp
+END
+grfmt_tiff.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/otherlibs/highgui/grfmt_tiff.cpp
+END
+_highgui.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/otherlibs/highgui/_highgui.h
+END
+grfmt_jpeg.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/otherlibs/highgui/grfmt_jpeg.h
+END
+highgui.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/otherlibs/highgui/highgui.h
+END
+grfmt_jpeg2000.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/otherlibs/highgui/grfmt_jpeg2000.h
+END
+grfmt_exr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/otherlibs/highgui/grfmt_exr.cpp
+END

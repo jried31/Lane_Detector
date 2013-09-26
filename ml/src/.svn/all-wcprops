@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/2/trunk/ml/src
+END
+mlsvm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/ml/src/mlsvm.cpp
+END
+mlboost.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/ml/src/mlboost.cpp
+END
+mltestset.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/ml/src/mltestset.cpp
+END
+mlestimate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/ml/src/mlestimate.cpp
+END
+mlknearest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/ml/src/mlknearest.cpp
+END
+mlcnn.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/ml/src/mlcnn.cpp
+END
+mltree.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/ml/src/mltree.cpp
+END
+ml.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2/trunk/ml/src/ml.cpp
+END
+mlnbayes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/ml/src/mlnbayes.cpp
+END
+mlem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/ml/src/mlem.cpp
+END
+ml_inner_functions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/ml/src/ml_inner_functions.cpp
+END
+_ml.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/2/trunk/ml/src/_ml.h
+END
+mlrtrees.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/ml/src/mlrtrees.cpp
+END
+mlann_mlp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/ml/src/mlann_mlp.cpp
+END

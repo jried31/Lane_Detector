@@ -1,0 +1,431 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/2/trunk/cv/src
+END
+cvimgwarp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/cv/src/cvimgwarp.cpp
+END
+cvcanny.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/cv/src/cvcanny.cpp
+END
+cvapprox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/cv/src/cvapprox.cpp
+END
+cvoptflowbm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/cv/src/cvoptflowbm.cpp
+END
+cvfundam.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/cv/src/cvfundam.cpp
+END
+cvsurf.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/cv/src/cvsurf.cpp
+END
+_cvlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/cv/src/_cvlist.h
+END
+cvmoments.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/cv/src/cvmoments.cpp
+END
+_cvkdtree.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/cv/src/_cvkdtree.hpp
+END
+cvcornersubpix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/cv/src/cvcornersubpix.cpp
+END
+cvsnakes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/cv/src/cvsnakes.cpp
+END
+cvmorph.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/cv/src/cvmorph.cpp
+END
+cvsamplers.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/cv/src/cvsamplers.cpp
+END
+cvsumpixels.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/cv/src/cvsumpixels.cpp
+END
+cvcondens.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/cv/src/cvcondens.cpp
+END
+cvlinefit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/cv/src/cvlinefit.cpp
+END
+_cvgeom.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/cv/src/_cvgeom.h
+END
+cvundistort.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/cv/src/cvundistort.cpp
+END
+cvlkpyramid.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/cv/src/cvlkpyramid.cpp
+END
+cvkalman.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/cv/src/cvkalman.cpp
+END
+_cvimgproc.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/cv/src/_cvimgproc.h
+END
+cvemd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/cv/src/cvemd.cpp
+END
+cvhough.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/cv/src/cvhough.cpp
+END
+cvfloodfill.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/cv/src/cvfloodfill.cpp
+END
+cvhaar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/cv/src/cvhaar.cpp
+END
+cvpgh.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/cv/src/cvpgh.cpp
+END
+cvstereobm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/cv/src/cvstereobm.cpp
+END
+_cv.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/2/trunk/cv/src/_cv.h
+END
+mycvHaarDetectObjects.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/cv/src/mycvHaarDetectObjects.cpp
+END
+cvsubdivision2d.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/cv/src/cvsubdivision2d.cpp
+END
+cvcalibration.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/cv/src/cvcalibration.cpp
+END
+cvpyramids.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/cv/src/cvpyramids.cpp
+END
+cvcorner.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/cv/src/cvcorner.cpp
+END
+cvtemplmatch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/cv/src/cvtemplmatch.cpp
+END
+cvutils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/cv/src/cvutils.cpp
+END
+cvprecomp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/cv/src/cvprecomp.cpp
+END
+_cvmatrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/cv/src/_cvmatrix.h
+END
+cvsmooth.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/cv/src/cvsmooth.cpp
+END
+cvtables.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/cv/src/cvtables.cpp
+END
+cvstereogc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/cv/src/cvstereogc.cpp
+END
+cvmotempl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/cv/src/cvmotempl.cpp
+END
+cvoptflowlk.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/cv/src/cvoptflowlk.cpp
+END
+cvfilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/cv/src/cvfilter.cpp
+END
+cvoptflowhs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/cv/src/cvoptflowhs.cpp
+END
+cvpyrsegmentation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/cv/src/cvpyrsegmentation.cpp
+END
+cvaccum.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/cv/src/cvaccum.cpp
+END
+cvswitcher.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/cv/src/cvswitcher.cpp
+END
+cvmatchcontours.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/cv/src/cvmatchcontours.cpp
+END
+cvfeatureselect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/cv/src/cvfeatureselect.cpp
+END
+cvthresh.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/cv/src/cvthresh.cpp
+END
+cvinpaint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/cv/src/cvinpaint.cpp
+END
+cvcontourtree.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/cv/src/cvcontourtree.cpp
+END
+cvderiv.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/cv/src/cvderiv.cpp
+END
+cvdistransform.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/cv/src/cvdistransform.cpp
+END
+cvcontours.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/cv/src/cvcontours.cpp
+END
+cvcolor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/cv/src/cvcolor.cpp
+END
+cvkdtree.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/cv/src/cvkdtree.cpp
+END
+cvshapedescr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/cv/src/cvshapedescr.cpp
+END
+cvadapthresh.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/cv/src/cvadapthresh.cpp
+END
+cvrotcalipers.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/cv/src/cvrotcalipers.cpp
+END
+cvconvhull.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/cv/src/cvconvhull.cpp
+END
+cvgeometry.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/cv/src/cvgeometry.cpp
+END
+_cvipp.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/cv/src/_cvipp.h
+END
+cvdominants.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/cv/src/cvdominants.cpp
+END
+cvsegmentation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/cv/src/cvsegmentation.cpp
+END
+cvhistogram.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/cv/src/cvhistogram.cpp
+END
+cvcalccontrasthistogram.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/cv/src/cvcalccontrasthistogram.cpp
+END
+cvposit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/cv/src/cvposit.cpp
+END
+cvcalibinit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/cv/src/cvcalibinit.cpp
+END
+cvcamshift.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/cv/src/cvcamshift.cpp
+END
+cvcalcimagehomography.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/cv/src/cvcalcimagehomography.cpp
+END

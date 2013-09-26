@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/cxcore/include
+END
+cxtypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/cxcore/include/cxtypes.h
+END
+cvwimage.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/cxcore/include/cvwimage.h
+END
+cxcore.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/cxcore/include/cxcore.hpp
+END
+cxcore.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/cxcore/include/cxcore.h
+END
+cxerror.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/cxcore/include/cxerror.h
+END
+cvver.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/cxcore/include/cvver.h
+END
+cxmisc.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/cxcore/include/cxmisc.h
+END

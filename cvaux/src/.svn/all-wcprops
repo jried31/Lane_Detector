@@ -1,0 +1,305 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/2/trunk/cvaux/src
+END
+camshift.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/cvaux/src/camshift.cpp
+END
+_cvvectrack.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/cvaux/src/_cvvectrack.h
+END
+cvepilines.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/cvaux/src/cvepilines.cpp
+END
+cvbgfg_codebook.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/cvaux/src/cvbgfg_codebook.cpp
+END
+cvauxutils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/cvaux/src/cvauxutils.cpp
+END
+extendededges.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/cvaux/src/extendededges.cpp
+END
+cv3dtracker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/cvaux/src/cv3dtracker.cpp
+END
+cvmorphcontours.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/cvaux/src/cvmorphcontours.cpp
+END
+cvclique.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/cvaux/src/cvclique.cpp
+END
+cvbgfg_acmmm2003.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/cvaux/src/cvbgfg_acmmm2003.cpp
+END
+cvhmmobs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/cvaux/src/cvhmmobs.cpp
+END
+cvlevmar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/cvaux/src/cvlevmar.cpp
+END
+_cvvm.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/cvaux/src/_cvvm.h
+END
+cvlevmarprojbandle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/cvaux/src/cvlevmarprojbandle.cpp
+END
+cvfacetemplate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/cvaux/src/cvfacetemplate.cpp
+END
+cvcorrimages.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/cvaux/src/cvcorrimages.cpp
+END
+cvface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/cvaux/src/cvface.cpp
+END
+_cvfacedetection.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/cvaux/src/_cvfacedetection.h
+END
+_cvaux.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/cvaux/src/_cvaux.h
+END
+cvtrifocal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/cvaux/src/cvtrifocal.cpp
+END
+cvlee.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/cvaux/src/cvlee.cpp
+END
+cvhmm1d.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/cvaux/src/cvhmm1d.cpp
+END
+cvvideo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/cvaux/src/cvvideo.cpp
+END
+cvlines.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/cvaux/src/cvlines.cpp
+END
+cvcreatehandmask.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/cvaux/src/cvcreatehandmask.cpp
+END
+cvlevmartrif.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/cvaux/src/cvlevmartrif.cpp
+END
+cvlcm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/cvaux/src/cvlcm.cpp
+END
+precomp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/cvaux/src/precomp.cpp
+END
+enmin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/cvaux/src/enmin.cpp
+END
+cvbgfg_common.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/cvaux/src/cvbgfg_common.cpp
+END
+cvsubdiv2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/cvaux/src/cvsubdiv2.cpp
+END
+cvcorrespond.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/cvaux/src/cvcorrespond.cpp
+END
+cvfindhandregion.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/cvaux/src/cvfindhandregion.cpp
+END
+cvscanlines.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/cvaux/src/cvscanlines.cpp
+END
+cvvecfacetracking.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/cvaux/src/cvvecfacetracking.cpp
+END
+cvcalibfilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/cvaux/src/cvcalibfilter.cpp
+END
+cvprewarp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/cvaux/src/cvprewarp.cpp
+END
+cvhmm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/cvaux/src/cvhmm.cpp
+END
+cvmat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/cvaux/src/cvmat.cpp
+END
+decomppoly.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/cvaux/src/decomppoly.cpp
+END
+cvmorphing.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/cvaux/src/cvmorphing.cpp
+END
+cvbgfg_gaussmix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/cvaux/src/cvbgfg_gaussmix.cpp
+END
+cvdpstereo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/cvaux/src/cvdpstereo.cpp
+END
+cvaux.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/cvaux/src/cvaux.cpp
+END
+cvfacedetection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/cvaux/src/cvfacedetection.cpp
+END
+cvfindface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/cvaux/src/cvfindface.cpp
+END
+cvtexture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/cvaux/src/cvtexture.cpp
+END
+cveigenobjects.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/cvaux/src/cveigenobjects.cpp
+END
+cvsegment.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/cvaux/src/cvsegment.cpp
+END
+cvlmeds.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/cvaux/src/cvlmeds.cpp
+END

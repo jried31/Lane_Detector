@@ -1,0 +1,85 @@
+10
+
+dir
+16
+http://lanedetectionandroid.googlecode.com/svn/trunk/tests/.metadata/.plugins
+http://lanedetectionandroid.googlecode.com/svn
+
+
+
+2010-05-19T11:54:50.569478Z
+16
+brianhou89
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6a32a606-44cc-5102-5166-6e661e2d5c21
+
+org.eclipse.wst.internet.cache
+dir
+
+org.eclipse.mylyn.bugzilla.core
+dir
+
+org.eclipse.team.cvs.core
+dir
+
+org.eclipse.ui.intro
+dir
+
+org.eclipse.jdt.core
+dir
+
+org.eclipse.mylyn.tasks.ui
+dir
+
+org.eclipse.jdt.junit
+dir
+
+org.eclipse.core.runtime
+dir
+
+org.eclipse.ui.ide
+dir
+
+org.eclipse.debug.core
+dir
+
+org.eclipse.ltk.core.refactoring
+dir
+
+org.eclipse.jdt.launching
+dir
+
+org.eclipse.ui.workbench.texteditor
+dir
+
+org.eclipse.epp.usagedata.recording
+dir
+
+org.eclipse.jdt.ui
+dir
+
+org.eclipse.ui.workbench
+dir
+
+org.eclipse.core.resources
+dir
+
+org.eclipse.debug.ui
+dir
+
+org.eclipse.wst.xml.core
+dir
+

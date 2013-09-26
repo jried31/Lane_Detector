@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/15/trunk/tests/.metadata/.plugins/org.eclipse.debug.core/.launches
+END
+OpenCVSample.launch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/15/trunk/tests/.metadata/.plugins/org.eclipse.debug.core/.launches/OpenCVSample.launch
+END
+TestJniCall.launch
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/15/trunk/tests/.metadata/.plugins/org.eclipse.debug.core/.launches/TestJniCall.launch
+END
